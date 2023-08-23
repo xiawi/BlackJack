@@ -1,0 +1,9 @@
+[debug] > Exec(assembly, None, None)
+[debug] Evaluating tasks: assembly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] 4 file(s) merged using strategy 'Rename' (Run the task at debug level to see the details)
+[info] 5 file(s) merged using strategy 'Discard' (Run the task at debug level to see the details)
+[info] Built: D:\Sunway BCS\Y2S3\PRG2104 Object-Oriented Programming\Assignment\BlackJack\target\scala-2.12\BlackJack-assembly-0.1.0-SNAPSHOT.jar
+[info] Jar hash: 928391e397d8e7001a85f4c24e765fb8f930b002
+[success] Total time: 15 s, completed Aug 20, 2023 2:46:41 PM
+[debug] > Exec(idea-shell, None, None)

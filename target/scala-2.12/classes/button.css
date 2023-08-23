@@ -1,0 +1,14 @@
+/* Define the base button style */
+.green-button {
+    -fx-background-color: #008000; /* Green background color */
+    -fx-text-fill: white; /* Text color */
+    -fx-border-width: 0; /* No borders */
+    -fx-padding: 10px 20px; /* Padding around the text */
+    -fx-cursor: hand; /* Change cursor on hover */
+    -fx-font-family: "Lucida Sans Demibold", sans-serif; /* Set the font */
+}
+
+/* Style for the button when hovered */
+.green-button:hover {
+    -fx-background-color: #005000; /* Darker green background color */
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane onMouseClicked="#start" prefHeight="500.0" prefWidth="1000.0" style="-fx-background-color: Green;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="blackjack.view.MainMenuController">
+   <children>
+      <Text fill="WHITE" layoutX="327.0" layoutY="276.0" strokeType="OUTSIDE" strokeWidth="0.0" text="BlackJack">
+         <font>
+            <Font name="Lucida Sans Demibold" size="71.0" />
+         </font>
+      </Text>
+      <Text fx:id="yellowText" fill="YELLOW" layoutX="432.0" layoutY="430.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Click to Begin!">
+         <font>
+            <Font name="System Bold Italic" size="20.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

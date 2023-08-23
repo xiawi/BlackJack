@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 42 products, 9 sources, 4 libraries
+[debug] current source = Set(${BASE}/src/main/scala/blackjack/view/TableController.scala, ${BASE}/src/main/scala/blackjack/model/Card.scala, ${BASE}/src/main/scala/blackjack/model/Dealer.scala, ${BASE}/src/main/scala/blackjack/model/Suit.scala, ${BASE}/src/main/scala/blackjack/model/Deck.scala, ${BASE}/src/main/scala/blackjack/view/MainMenuController.scala, ${BASE}/src/main/scala/blackjack/Game.scala, ${BASE}/src/main/scala/blackjack/model/Rank.scala, ${BASE}/src/main/scala/blackjack/model/Player.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes
